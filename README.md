@@ -160,3 +160,17 @@ public class Main {
         }
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+Print da execução:
+![image](https://github.com/barbieags/Lista-09/assets/166566797/78fe9af0-9e4d-4e55-afe8-b00e738afdc5)
+
